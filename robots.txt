@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hunnglee2k3.github.io/mylife/sitemap.xml
