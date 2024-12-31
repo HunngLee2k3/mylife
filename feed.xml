@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>HunngLee</title>
-    <link href="https://hunnglee2k3.github.io/mylife/le-van-hung/feed.xml" rel="self" />
-    <link href="https://hunnglee2k3.github.io/mylife/le-van-hung" />
+    <link href="https://hunnglee2k3.github.io/mylife/feed.xml" rel="self" />
+    <link href="https://hunnglee2k3.github.io/mylife" />
     <updated>1970-01-01T07:00:00+07:00</updated>
     <author>
         <name>HunngLee</name>
     </author>
-    <id>https://hunnglee2k3.github.io/mylife/le-van-hung</id>
+    <id>https://hunnglee2k3.github.io/mylife</id>
 
 </feed>
